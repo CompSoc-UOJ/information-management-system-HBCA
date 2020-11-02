@@ -1,4 +1,4 @@
-# information-management-system-HBCA
+# Information-Management-System-HBCA (IMS-HBCA)
 
 This project is developed for Hindhu Buddist Cultural Assosiation - Chavakachery, Jaffna. Tecnology used in this projects are PHP and MySQL. 
 
