@@ -1,13 +1,23 @@
 # Information-Management-System-HBCA (IMS-HBCA)
 
-Web - Based information Management System for Hindhu Buddist Cultural Assosiation - Chavakachery, Jaffna. Tecnology used in this projects are PHP and MySQL. 
+Web - Based information Management System for Hindhu Buddist Cultural Assosiation - Chavakachery, Jaffna. 
 For more Details : munzirahmadh@gmail.com 
 
-To run this project.
+Step 1 : Clone Or Download 
+Step 2 : Read readme.txt for Xampp version "istall xampp version win32-1.8.1" 
+Step 3 : Install microsoft visual studio c++ 2008 redistributable 
+Step 4 : Create Database With Appropriate Names 
+Step 5 : Setup Database enviorment 
+Step 6 : Launch
 
-1. Clone the project.
-2. Setup Data base connections.
-3. Run the program.
+# Technologies
+
+1. PHP
+2. Apache
+3. MySQL
+4. HTML 5
+5. CSS
+6. Bootstrap 
 
 # Users
 
