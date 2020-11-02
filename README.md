@@ -5,7 +5,7 @@ Web - Based information Management System for Hindhu Buddist Cultural Assosiatio
 For more Details : munzirahmadh@gmail.com 
 
 * Step 1 : Clone Or Download. 
-* Step 2 : Read readme.txt for Xampp version "istall xampp version win32-1.8.1". 
+* Step 2 : Read readme.txt for Xampp version "install xampp version win32-1.8.1". 
 * Step 3 : Install microsoft visual studio c++ 2008 redistributable. 
 * Step 4 : Create Database With Appropriate Names. 
 * Step 5 : Setup Database enviorment. 
